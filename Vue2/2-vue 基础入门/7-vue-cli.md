@@ -20,9 +20,9 @@
 
    Please pick a preset: 提示中，建议选择 Manually select features 选项
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220812230316381.png" alt="image-20220812230316381" style="zoom: 50%;" />
+   <img src="../../images/image-20220812230316381.png" alt="image-20220812230316381" style="zoom: 50%;" />
 
-   <img src="/Users/hsiwozer/Library/Application Support/typora-user-images/image-20220812231200237.png" alt="image-20220812231200237" style="zoom:50%;" />
+   <img src="../../images/image-20220812231200237.png" alt="image-20220812231200237" style="zoom:50%;" />
 
 4. ####  **vue** **项目的运行流程**
 
